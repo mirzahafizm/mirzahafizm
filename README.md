@@ -12,4 +12,4 @@ Hi, I'm Mirza. I’m studying Computer Science at IPB University. I’m passiona
 
 ## GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mirzahm14&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mirzahafizm&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
